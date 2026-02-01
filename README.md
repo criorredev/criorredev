@@ -1,19 +1,21 @@
-## Hi, I'm Alex ❄️
+# hello, im criorre !! ❄️
+alex irl | prospective cs student
 
-I'm an (incoming) Computer Science student interested in programming, game development, and building things that actually work.
+currently learning c# fundamentals. want to make indie games eventually!
 
-_Currently, I'm focused on:_
-- Learning C# and GDScript Fundamentals
-- Building small projects to understand program structure, logic, and how to finish things
-- Making small games in Godot
+## learning now
+- c#
+- program structure and logic
+- how to actually finish projects (lol)
 
-_I’m especially interested in:_
-- Game systems and gameplay logic
-- Backend-style problem solving
-- Turning ideas into finished, working projects
+## want to learn
+- godot / gdscript
+- python
+- html / css
 
-This GitHub is a record of my learning and progress over time.
-By design, projects here are small. The goal is consistency and not perfection.
+## other stuff
+i make music and write under the alias **criorre**
 
-Outside of code, I also make music and enjoy storytelling.
-I sometimes publish creative projects under the alias “**criorre**.”
+---
+
+this github is my learning progress. keeping projects small so i actually finish them!
