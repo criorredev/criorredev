@@ -19,3 +19,6 @@ i make music and write under the alias **criorre**
 ---
 
 this github is my learning progress. keeping projects small so i actually finish them!
+
+[![criorre's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/criorredev?cardType=level&theme=react&fontFamily=Lexend&preferLogin=true)](https://git.io/awesome-stats-card)
+![criorre's GitHub Streaks](https://streak-stats.demolab.com?user=criorredev&theme=react&fontFamily=Lexend&hide_border=true)
