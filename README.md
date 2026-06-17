@@ -4,12 +4,12 @@ alex irl | prospective cs student
 currently learning c# fundamentals. want to make indie games eventually!
 
 ## learning now
-- c#
+- godot / gdscript
 - program structure and logic
 - how to actually finish projects (lol)
 
 ## want to learn
-- godot / gdscript
+- c#
 - python
 - html / css
 
