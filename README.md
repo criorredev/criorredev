@@ -1,7 +1,7 @@
 # hello, im criorre !! ❄️
 alex irl | prospective cs student
 
-currently learning c# fundamentals. want to make indie games eventually!
+currently learning gdscript fundamentals. want to make indie games eventually!
 
 ## learning now
 - godot / gdscript
