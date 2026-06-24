@@ -1,5 +1,5 @@
 # hello, im criorre !! ❄️
-alex irl | prospective cs student
+alex irl | prospective cs student @ **depauw university**
 
 currently learning gdscript fundamentals. want to make indie games eventually!
 
